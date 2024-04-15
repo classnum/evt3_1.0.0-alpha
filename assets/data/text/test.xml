@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="normal">Liber Hynotheon</title>
+                <title type="normal">TEST Liber Hynotheon</title>
                 <title type="source">Manuscrit Rennes, 5Fb 1 ADIV</title>
                 <title type="medium">transcription électronique</title>
                 <author>inconnu</author>
@@ -92,7 +92,7 @@
             <div n="1" type="chapitre">
                 <pb n="page_1" facs="5Fb1PetitCahier-FAC-SIMILE_page-1.jpg"/>
                 <div n="1" type="section">
-                    <p> In nomine domini <persName ref="#Jésus">Iesus</persName>
+                    <p> TEST DE VERSION – In nomine domini <persName ref="#Jésus">Iesus</persName>
                         <choice>
                             <sic>Chisti</sic>
                             <corr resp="#NC">Christi</corr>
@@ -342,8 +342,7 @@
                 <div n="7" type="section">
                     <p> Sexta altitudo. Hæc uocatur <name type="divin">Noxin</name>, et principes,
                         qui morantur in ea, habent potestatem et uirtutem suam ex officio super
-                        status <pb n="page_3"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-3.jpg"/> mundi
+                        status <pb n="page_3" facs="5Fb1PetitCahier-FAC-SIMILE_page-3.jpg"/> mundi
                         et mouent et mutant monarchias, imperia et dominia mundi de regione in
                         regionem per motum cælestem et ordinationem eorum ; et distingunt dominos ii
                         et a seruis ipsos uirtutibus et moribus illustrant, et mutant ipsas leges,
@@ -479,11 +478,10 @@
                 <div n="10" type="section">
                     <p> Nona altitudo. Hæc uocatur <name type="divin">Suphor</name> et principes qui
                         morantur in ea habent potestatem <pb n="page_4"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-4.jpg"/> et
-                        uirtutem dare pecunias hominibus et etiam illas auferre quomodo illis placet
-                        et ex officio faciunt homines pulcherrimos et etiam uirtutem habent
-                        infundendi omnes scientias. Nomina principum huius altitudinis sunt <name
-                            type="divin"><choice>
+                            facs="5Fb1PetitCahier-FAC-SIMILE_page-4.jpg"/> et uirtutem dare pecunias
+                        hominibus et etiam illas auferre quomodo illis placet et ex officio faciunt
+                        homines pulcherrimos et etiam uirtutem habent infundendi omnes scientias.
+                        Nomina principum huius altitudinis sunt <name type="divin"><choice>
                                 <sic>Paijmon</sic>
                                 <corr resp="#NC">Paymon</corr>
                             </choice><!--<app>
@@ -569,9 +567,8 @@
                                     <rdg wit="#ADIV_5Fb_1">pussilanimos</rdg>
                                 </app>-->
                         <del>pusilanimos</del>, uictoriosos et non. Nomina principum huius
-                        altitudinis sunt <pb n="page_5"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-5.jpg"/><name
-                            type="divin">Briel</name>, <name type="divin"><choice>
+                        altitudinis sunt <pb n="page_5" facs="5Fb1PetitCahier-FAC-SIMILE_page-5.jpg"
+                            /><name type="divin">Briel</name>, <name type="divin"><choice>
                                 <sic>Malamacoij</sic>
                                 <corr resp="#NC">Malamacoy</corr>
                             </choice><!--<app>
@@ -754,9 +751,9 @@
                             type="divin">Ahahager</name> et principes qui morantur in ea uirtutem et
                         potestatem habent super omnia uenena atterminata et non cognita et faciunt
                         homines perire et <pb n="page_7"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-7.jpg"/> non,
-                        faciunt aperire terras et claudare ut illis uidetur. Nomina principum huius
-                        altitudinis sunt <name type="divin">Agariel</name>, <name type="divin"
+                            facs="5Fb1PetitCahier-FAC-SIMILE_page-7.jpg"/> non, faciunt aperire
+                        terras et claudare ut illis uidetur. Nomina principum huius altitudinis sunt
+                            <name type="divin">Agariel</name>, <name type="divin"
                             >Animirnaornus</name>
                         <del>Anirmirnaornus</del>, <name type="divin"><choice>
                                 <sic>Bijleth</sic>
@@ -861,8 +858,7 @@
                                     <lem resp="#NC">altitudinibus</lem>
                                     <rdg wit="#ADIV_5Fb_1">altitunibus</rdg>
                                 </app>--> septentrionalibus et sunt tres.
-                            <pb n="page_8"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-8.jpg"/>Prima
+                            <pb n="page_8" facs="5Fb1PetitCahier-FAC-SIMILE_page-8.jpg"/>Prima
                         altitudo. Hæc uocatur <name type="divin">Hahanahor</name> et principes qui
                         morantur in ea habent uirtutem et potentiam super fortunam omnis maris et
                         faciunt pluere et <choice>
@@ -940,9 +936,8 @@
                 </div>
                 <div n="4" type="section">
                     <p> Et est sciendum quod omnes hæ altitudines habent uirtutem et <pb n="page_9"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-9.jpg"/>
-                        potentiam suam dei ♄ id est Saturni et in eius hora ut in tertio tractatu
-                        adnotauimus.</p>
+                            facs="5Fb1PetitCahier-FAC-SIMILE_page-9.jpg"/> potentiam suam dei ♄ id
+                        est Saturni et in eius hora ut in tertio tractatu adnotauimus.</p>
                 </div>
             </div>
 
@@ -1075,11 +1070,9 @@
                     <p> Cauendum autem est ne aliqua illius candelæ <add place="supra linea">t</add>
                         accendatur nisi tempore operationis. Cum autem sanctum <name type="divin"
                             >Stæleion</name>
-                        <pb n="page_10"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-10.jpg"/>
-                        compositum fuit, fiat sigillum in quod sculpantur ipsa nomina uerso modo et
-                        sigillum sit purissimi argenti et auri et tempore operationis ponatur intus
-                        secundam <choice>
+                        <pb n="page_10" facs="5Fb1PetitCahier-FAC-SIMILE_page-10.jpg"/> compositum
+                        fuit, fiat sigillum in quod sculpantur ipsa nomina uerso modo et sigillum
+                        sit purissimi argenti et auri et tempore operationis ponatur intus secundam <choice>
                             <sic>capsula</sic>
                             <corr resp="#NC">capsulam</corr>
                         </choice><!--<app>
@@ -1172,8 +1165,8 @@
                                         <rdg wit="#ADIV_5Fb_1">sequuntur</rdg>
                                     </app>--> sanctum <name type="divin"
                             >Stælaon</name> altitudinum occidentalium. <pb n="page_11"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-11.jpg"/>Prima
-                        altitudo, fabricatur de cera <choice>
+                            facs="5Fb1PetitCahier-FAC-SIMILE_page-11.jpg"/>Prima altitudo,
+                        fabricatur de cera <choice>
                             <sic>uiridi</sic>
                             <corr resp="#NC">uiridis</corr>
                         </choice><!--<app>
@@ -1399,8 +1392,8 @@
                 </div>
                 <div n="2" type="section">
                     <p> Nunc sequuntur suffumigationes altitudinum occidentalium. <pb n="page_16"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-16.jpg"/>Prima
-                        altitudo occidentalis suffumiganda est cum odoribus cinnamomi storacis <choice>
+                            facs="5Fb1PetitCahier-FAC-SIMILE_page-16.jpg"/>Prima altitudo
+                        occidentalis suffumiganda est cum odoribus cinnamomi storacis <choice>
                             <sic>calamitæ</sic>
                             <corr resp="#NC">calamiti</corr>
                         </choice><!--<app>
@@ -1484,9 +1477,8 @@
                                         <rdg wit="#ADIV_5Fb_1">inuocat</rdg>
                                     </app>--> ?) cum stilo nomen magni
                         imperatoris et creatoris <pb n="page_17"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-17.jpg"/>omnium
-                        creaturarum quod est + <name type="divin">Thethagramaton</name> ut in
-                        exemplo. </p>
+                            facs="5Fb1PetitCahier-FAC-SIMILE_page-17.jpg"/>omnium creaturarum quod
+                        est + <name type="divin">Thethagramaton</name> ut in exemplo. </p>
                 </div>
                 <div n="4" type="section">
                     <p> Nota quod omnes principes omnium altitudinum habent colores et odores pro eo
@@ -1539,8 +1531,7 @@
                         Benignissime, Domine, rogo tuam diuinam maiestatem quantum rogare possum ut
                         mihi famulo tuo n. (n. id est nomen <add place="in margine">id est
                             nomen</add>) tantam gratiam <pb n="page_18"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-18.jpg"/>
-                        concedere digneris </p>
+                            facs="5Fb1PetitCahier-FAC-SIMILE_page-18.jpg"/> concedere digneris </p>
                 </div>
                 <div n="2" type="section">
                     <p> atque concedas ut possim et <choice>
@@ -1703,8 +1694,7 @@
                     </p>
                 </div>
                 <div n="4" type="section">
-                    <p> Nota <pb n="page_20"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-20.jpg"/> quod
+                    <p> Nota <pb n="page_20" facs="5Fb1PetitCahier-FAC-SIMILE_page-20.jpg"/> quod
                         sigilla et caractera principum sunt scribenda in carta uirginea, coloribus
                         propriis illius altitudinis, uel in panno <choice>
                             <sic>seic</sic>
@@ -1735,33 +1725,31 @@
             </div>
 
             <div n="fig3" type="figure">
-                <p><pb n="page_21" facs="5Fb1PetitCahier-FAC-SIMILE_page-21.jpg"
-                    />Figura tertia. Sigillum primæ altitudinis orientalis Caractera principum</p>
+                <p><pb n="page_21" facs="5Fb1PetitCahier-FAC-SIMILE_page-21.jpg"/>Figura tertia.
+                    Sigillum primæ altitudinis orientalis Caractera principum</p>
             </div>
 
             <div n="fig4" type="figure">
-                <p><pb n="page_22" facs="5Fb1PetitCahier-FAC-SIMILE_page-22.jpg"
-                    />Figura quarta. Sigillum secundæ altitudinis orientalis 2.</p>
+                <p><pb n="page_22" facs="5Fb1PetitCahier-FAC-SIMILE_page-22.jpg"/>Figura quarta.
+                    Sigillum secundæ altitudinis orientalis 2.</p>
             </div>
 
             <div n="fig5a" type="figure">
-                <p><pb n="page_23" facs="5Fb1PetitCahier-FAC-SIMILE_page-23.jpg"
-                    />Figura quinta. Sigillum tertiæ altitudinis</p>
+                <p><pb n="page_23" facs="5Fb1PetitCahier-FAC-SIMILE_page-23.jpg"/>Figura quinta.
+                    Sigillum tertiæ altitudinis</p>
             </div>
             <div n="fig5b" type="figure">
                 <p>
-                    <pb n="page_24" facs="5Fb1PetitCahier-FAC-SIMILE_page-24.jpg"
-                    /></p>
+                    <pb n="page_24" facs="5Fb1PetitCahier-FAC-SIMILE_page-24.jpg"/></p>
             </div>
 
             <div n="13" type="chapitre">
                 <div n="1" type="section">
                     <p>
-                        <pb n="page_25"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-25.jpg"/> Est
-                        enim sciendum quod sigillum altitudinis et caractera principum sunt
-                        scribenda hora operationis ab artista et sunt mittenda in foramine et postea
-                        illud claudatur et artista sequatur operationem suam. </p>
+                        <pb n="page_25" facs="5Fb1PetitCahier-FAC-SIMILE_page-25.jpg"/> Est enim
+                        sciendum quod sigillum altitudinis et caractera principum sunt scribenda
+                        hora operationis ab artista et sunt mittenda in foramine et postea illud
+                        claudatur et artista sequatur operationem suam. </p>
                 </div>
                 <div n="2" type="section">
                     <p> Nos supra diximus quod artista genuflexus suffumigare debet sanctissimum
@@ -2116,8 +2104,8 @@
                             type="divin">Relsidion</name>, <name type="divin">Malahahh</name>, <name
                             type="divin">Ruaahhton</name>, <name type="divin">Mesahh</name>, <name
                             type="divin">Tazahh</name>, <pb n="page_27"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-27.jpg"/><name
-                            type="divin">Nispha</name>, <name type="divin"><choice>
+                            facs="5Fb1PetitCahier-FAC-SIMILE_page-27.jpg"/><name type="divin"
+                            >Nispha</name>, <name type="divin"><choice>
                                 <sic>Abtijso</sic>
                                 <corr resp="#NC">Abtyso</corr>
                             </choice><!--<app><lem resp="#NC">Abtyso</lem><rdg wit="#ADIV_5Fb_1">Abtijso</rdg></app>--></name>,
@@ -2243,9 +2231,8 @@
             <div n="17" type="chapitre">
                 <div n="1" type="section">
                     <p> Nota. Et nota, o artista, quod debes ter dicere inuocationem, et si non <pb
-                            n="page_28"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-28.jpg"/>non
-                        uenerit, tunc cum maxima ueneratione <choice>
+                            n="page_28" facs="5Fb1PetitCahier-FAC-SIMILE_page-28.jpg"/>non uenerit,
+                        tunc cum maxima ueneratione <choice>
                             <sic>letis</sic>
                             <corr resp="#NC">lotis</corr>
                         </choice><!--<app>
@@ -2326,9 +2313,8 @@
             </div>
 
             <div n="fig6a" type="figure">
-                <p><pb n="page_29" facs="5Fb1PetitCahier-FAC-SIMILE_page-29.jpg"
-                    />Figura sexta. Forma uestis artistæ Ex alia parte <name type="divin"
-                        >ELIZBETH</name>
+                <p><pb n="page_29" facs="5Fb1PetitCahier-FAC-SIMILE_page-29.jpg"/>Figura sexta.
+                    Forma uestis artistæ Ex alia parte <name type="divin">ELIZBETH</name>
                     <name type="divin">ABESSALOM</name>
                     <name type="divin">AVORRA</name>
                     <name type="divin">ADONAY</name>
@@ -2341,17 +2327,14 @@
             </div>
             <div n="fig6b" type="figure">
                 <p>
-                    <pb n="page_30" facs="5Fb1PetitCahier-FAC-SIMILE_page-30.jpg"
-                    /></p>
+                    <pb n="page_30" facs="5Fb1PetitCahier-FAC-SIMILE_page-30.jpg"/></p>
             </div>
             <div n="19" type="chapitre">
                 <div n="1" type="section">
                     <p>
-                        <pb n="page_31"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-31.jpg"/>Supra
-                        diximus quod erat fabricandum sigillum magni Dei et erant sculpenda in illo
-                        nomina ut supra. Sed non diximus modum neque tempus quando debet
-                        fabricari.</p>
+                        <pb n="page_31" facs="5Fb1PetitCahier-FAC-SIMILE_page-31.jpg"/>Supra diximus
+                        quod erat fabricandum sigillum magni Dei et erant sculpenda in illo nomina
+                        ut supra. Sed non diximus modum neque tempus quando debet fabricari.</p>
                 </div>
                 <div n="2" type="section">
                     <p> Idcirco sigillum est fabricandum die ♃, id est Iouis, uel solis, hora ☿, id
@@ -2456,9 +2439,8 @@
                                         <lem resp="#NC">Aegypti</lem>
                                         <rdg wit="#ADIV_5Fb_1">Aegipti</rdg>
                                     </app>--> ab homine usque ad pecus, <pb
-                            n="page_32"
-                            facs="5Fb1PetitCahier-FAC-SIMILE_page-32.jpg"/>qui
-                        diuisisti lumen a tenebris, qui fecisti <choice>
+                            n="page_32" facs="5Fb1PetitCahier-FAC-SIMILE_page-32.jpg"/>qui diuisisti
+                        lumen a tenebris, qui fecisti <choice>
                             <sic>luminam</sic>
                             <corr resp="#NC">luminaria</corr>
                         </choice><!--<app>
